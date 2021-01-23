@@ -1,7 +1,7 @@
-#Libreria de Complejos 
+# Libreria de Complejos 
 
 
-##Resumen
+## Resumen
 Esta libreria contiene las siguientes operiaciones en el conjunto de los complejos:
 
 * Suma
@@ -14,15 +14,15 @@ Esta libreria contiene las siguientes operiaciones en el conjunto de los complej
 * Potenciacion
 * Transformacion de forma polar a cartaseiana y viceversa 
 
-##Prerequisitos
+## Prerequisitos
 * Python 3.8
 * Un editor de texto 
 
-##Como correr las pruebas
+## Como correr las pruebas
 
 Para hacer las prubas correr el archivo llamado ComplexTests.py 
 
-##Hecho con
+## Hecho con
 
 * Pycharm
 
